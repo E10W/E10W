@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+# I am a CS student at the University of Houston
+I'm interested in learning!
 <!--
 **E10W/E10W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
